@@ -150,3 +150,7 @@ submitted/
 
 # some weird things Tomas is producing
 ..bfg-report
+
+
+# MY IGNORES
+**/datasets/
