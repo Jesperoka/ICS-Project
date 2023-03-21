@@ -154,3 +154,5 @@ submitted/
 
 # MY IGNORES
 **/datasets/
+# Too large for GitHub
+assignment/problem_1/statedicts/task_1-5_model_snn.pt
