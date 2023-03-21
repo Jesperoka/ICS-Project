@@ -15,7 +15,7 @@ authors = [
 requires-python = "==3.10.*"
 dependencies = [
     "dill",
-    "flax<0.7",
+    "flax",
     "jax",
     "ipynb", # used for importing modules from notebooks
     "ipykernel",
@@ -32,8 +32,8 @@ dependencies = [
     "snntorch",
     "tonic",
     "tensorboard",
-    "torch==1.12.1",
-    "torchvision==0.13.1",
+    "torch",
+    "torchvision",
     "tqdm",
 ]
 license = {text = "MIT"}
